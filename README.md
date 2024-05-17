@@ -1,5 +1,6 @@
 **Game Python**
-Descrição do Jogo
+
+**Descrição do Jogo**
 **Game Python** é um jogo de ação 2D desenvolvido em Python usando a biblioteca arcade. O jogador controla um personagem que deve sobreviver a ondas de inimigos enquanto se movimenta pela tela e dispara projéteis para se defender.
 
 **Funcionalidades**
